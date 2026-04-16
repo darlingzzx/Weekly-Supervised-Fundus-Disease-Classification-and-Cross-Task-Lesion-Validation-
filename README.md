@@ -1,4 +1,4 @@
-# Weekly-Supervised-Fundus-Disease-Classification-and-Cross-Task-Lesion-Validation-
+
 
 # 病灶感知的跨任务统一学习框架
 
